@@ -1,5 +1,7 @@
 # Paranoid People Live Longer — Signal Archive
 
+![PPLL public QR wordmark](<PPLL Storefront QR Social Post 1080 Cropped.png>)
+
 This repository holds public signal objects connected to Paranoid People Live Longer.
 
 These are not the whole system.
