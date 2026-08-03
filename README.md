@@ -1,40 +1,59 @@
-# Paranoid People Live Longer - Signal Archive
-
-![PPLL public QR wordmark](<PPLL Storefront QR Social Post 1080 Cropped.png>)
+# Paranoid People Live Longer — Public Work and Signal Archive
 
 > Paranoid doesn't mean afraid. Paranoid means paying attention.
 
-This repository is the public index for finished artifacts released through Paranoid People Live Longer (PPLL).
+This is the public portfolio and artifact index for work created by **Roger Crosby** through Paranoid People Live Longer (PPLL).
 
-It is not the whole archive.
+Roger builds human-gated artificial-intelligence systems, operational documents, evaluation frameworks, creative engines, Field Manuals, and long-form experimental writing. The work emphasizes clear roles, evidence, stop conditions, human authority, and systems that remain understandable after they leave the builder's hands.
 
-It is the part left above ground.
+**Available for remote contract work and project-based collaboration.**  
+Contact: [info@paranoidpeoplelivelonger.com](mailto:info@paranoidpeoplelivelonger.com)
 
-## Public Artifacts
+## Flagship work
 
-### Human-Gated Agent System
+### [Human-Gated Agent System](https://github.com/RexPiperisOlem/human-gated-agent-system)
 
-A document-first reference architecture for twelve narrow, human-gated agent roles. The system separates responsibilities, preserves approval gates, and keeps the human operator in control.
+A complete public reference architecture for twelve narrow artificial-intelligence agents. It includes role boundaries, structured handoffs, evidence gates, approval levels, documentation, tests, and an explicit rule that consequential authority remains with a human operator.
 
-[Open the Human-Gated Agent System](https://github.com/RexPiperisOlem/human-gated-agent-system)
+This is the strongest public example of Roger's systems-design and documentation work.
 
-### Kaomoji Emotional Confusion Engine
+### [Kaomoji Emotional Confusion Engine](https://github.com/RexPiperisOlem/kaomoji-engine)
 
-A small Python artifact that repeatedly mutates symbolic faces through four bounded cycles. The repository includes the engine, an accurate design note, operating instructions, and behavior tests.
+A small working Python engine that applies bounded mutation rules to symbolic faces and continues until stopped. The repository includes executable code, tests, operating instructions, and an accurate design note.
 
-[Open the Kaomoji Emotional Confusion Engine](https://github.com/RexPiperisOlem/kaomoji-engine)
+It demonstrates the ability to turn an unusual conceptual idea into a small, inspectable, tested artifact.
 
-## Main Public Door
+## Published documents
 
-The PPLL storefront is the main public entry point for Field Manuals, original artwork, signal objects, apparel, prints, and other released fragments.
+The [Notes repository](https://github.com/RexPiperisOlem/Notes) contains finished public documents in artificial intelligence, cognition, operational writing, and literature.
+
+- [The Dark Cognitive Manual](https://github.com/RexPiperisOlem/Notes/blob/main/THE%20DARK%20COGNITIVE%20MANUAL.pdf)
+- [Sixty AI Futures](https://github.com/RexPiperisOlem/Notes/blob/main/Sixty%20AI%20Futures.pdf)
+- [The Recipe Writing Production Guide](https://github.com/RexPiperisOlem/Notes/blob/main/THE%20RECIPE%20WRITING%20PRODUCTION%20GUIDE.pdf)
+- [A Zoo at the End of Winter](https://github.com/RexPiperisOlem/Notes/blob/main/A%20Zoo%20at%20the%20End%20of%20Winter%20032026.pdf)
+- [Character Study](https://github.com/RexPiperisOlem/Notes/blob/main/Character%20Study.pdf)
+
+## What this body of work demonstrates
+
+- Human-gated agent and workflow architecture
+- Structured documentation and operational systems
+- Evaluation criteria, quality gates, and evidence handling
+- Artificial-intelligence analysis and speculative thinking
+- Translation of practical experience into reusable frameworks
+- Distinctive creative systems and long-form writing
+- The ability to move from an idea to a finished, inspectable artifact
+
+## Main public door
+
+The PPLL storefront is the main commercial entry point for Field Manuals, original artwork, signal objects, apparel, prints, and other released fragments.
 
 [Open Paranoid People Live Longer](https://paranoidpeoplelivelonger.com)
 
-## Archive Boundary
+## Archive boundary
 
-This repository does not contain private production Bibles, gated Discord material, internal PPLL strategy, source archives, or unreleased systems.
+This is not the whole archive. It is the part left above ground.
 
-Public objects are separated from the production archive and checked before release.
+Private production Bibles, internal strategy, source archives, personal records, and unreleased systems are not published here. Public artifacts are separated from the production archive and checked before release.
 
 Some objects explain themselves.
 
