@@ -2,6 +2,8 @@
 
 > Paranoid doesn't mean afraid. Paranoid means paying attention.
 
+![PPLL public QR wordmark](<PPLL Storefront QR Social Post 1080 Cropped.png>)
+
 This is the public portfolio and artifact index for work created by **Roger Crosby** through Paranoid People Live Longer (PPLL).
 
 Roger builds human-gated artificial-intelligence systems, operational documents, evaluation frameworks, creative engines, Field Manuals, and long-form experimental writing. The work emphasizes clear roles, evidence, stop conditions, human authority, and systems that remain understandable after they leave the builder's hands.
