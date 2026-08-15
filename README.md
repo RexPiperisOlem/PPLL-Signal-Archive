@@ -6,7 +6,7 @@
 
 This repository is the main public portfolio, artifact index, and orientation point for work created by **Roger Crosby** through **Paranoid People Live Longer (PPLL)**.
 
-PPLL is an independent Canadian creative, commercial, and systems project. Its public work includes human-gated artificial-intelligence systems, operational documentation, evaluation frameworks, Field Manuals, conceptual prototypes, original art, long-form analysis, and experimental literature.
+PPLL is an independent Canadian creative, commercial, and systems project. Its public work includes human-gated artificial-intelligence systems, operational documentation, evaluation frameworks, Systems Papers, Field Manuals, conceptual prototypes, original art, long-form analysis, and experimental literature.
 
 The public archive is designed to answer four questions:
 
@@ -25,6 +25,10 @@ You do not need to inspect everything.
 ### I want to see a complete operating system
 
 Start with the [Human-Gated Agent System](https://github.com/RexPiperisOlem/human-gated-agent-system).
+
+### I want to see how a private operating system becomes public proof
+
+Start with the [Systems Papers series](https://github.com/RexPiperisOlem/Notes/tree/main/systems-papers), beginning with [Rebuilding the Room — Systems Paper 001](https://github.com/RexPiperisOlem/Notes/tree/main/systems-papers/001-rebuilding-the-room).
 
 ### I want to see working code and a contained prototype
 
@@ -84,9 +88,43 @@ The engine does not understand or classify emotion. It exposes a narrow rule sys
 
 **What it proves:** prototyping, bounded state, deterministic testing, technical explanation, honest scope control, and the ability to carry an unusual concept into a working artifact.
 
+## Systems Papers
+
+The [Systems Papers series](https://github.com/RexPiperisOlem/Notes/tree/main/systems-papers) is the public explanation layer for systems whose full operating machinery should not simply be posted online.
+
+A private operating Bible tells the working system how to behave. A Systems Paper stands outside that system and explains its problem, architecture, design reasoning, failure modes, evaluation logic, known limits, and transferable principles.
+
+The point is not to publish a free implementation package. The point is to make the systems thinking inspectable.
+
+### [Rebuilding the Room — Systems Paper 001](https://github.com/RexPiperisOlem/Notes/tree/main/systems-papers/001-rebuilding-the-room)
+
+A public proof-of-work paper about behavioural continuity across changing artificial-intelligence models.
+
+The underlying private project asked whether useful working conditions from an earlier long-running human-AI collaboration could be reconstructed through **external operating controls** rather than by pretending to restore old model weights or hidden capabilities.
+
+The paper makes several design layers visible:
+
+- model capacity versus controllable operating conditions;
+- behaviour as more than voice or persona;
+- state integrity across conversation, task, artifact, source, tool, and completion state;
+- mode detection and response-scale control;
+- evidence-backed claims about memory, access, progress, and completion;
+- drift and contamination as observable failure categories;
+- high-level calibration and recovery logic;
+- explicit human authority;
+- known limitations and claim boundaries.
+
+**What it proves:** behavioural architecture, state and mode discipline, source-based system reconstruction, failure-to-control translation, calibration thinking, evidence discipline, and the ability to convert a private operating system into public professional proof without giving away the complete internal implementation.
+
+**What it does not claim:** model-weight modification, hidden access to model internals, restoration of unavailable capabilities, a jailbreak, or perfect continuity across every model.
+
+The public edition intentionally withholds raw calibration transcripts, private examples, exact activation and reset blocks, internal control Bibles, the complete reusable test suite, detailed implementation sequences, and consulting-delivery machinery.
+
+That boundary is part of the design: **GitHub receives the proof layer; the private archive retains the operating layer.**
+
 ## Published documents
 
-The [Published Documents repository](https://github.com/RexPiperisOlem/Notes) contains finished public work across artificial intelligence, cognition, operational writing, recipe production, speculative futures, and literature.
+The [Published Documents repository](https://github.com/RexPiperisOlem/Notes) contains finished public work across artificial intelligence, cognition, operational writing, recipe production, speculative futures, and literature, along with the Systems Papers series.
 
 ### [The Dark Cognitive Manual](https://github.com/RexPiperisOlem/Notes/blob/main/THE%20DARK%20COGNITIVE%20MANUAL.pdf)
 
@@ -115,18 +153,23 @@ An earlier public creative document retained as evidence of development, voice, 
 - Human-gated agent and workflow architecture
 - Human-in-the-loop approval design
 - Agent role boundaries and handoff contracts
+- External behavioural-control architecture
+- State, mode, and response-scale discipline
 - Model-output evaluation and repair logic
+- Behavioural drift and contamination analysis
 - Failure analysis and controlled system change
 - State, version, and continuity awareness
 
 ### Documentation and knowledge systems
 
 - Standard operating procedures and Field Manuals
+- Systems Papers and public-safe architecture explanation
 - Intake records, work orders, operator cards, and decision maps
 - Acceptance criteria and quality gates
 - Source tracking, provenance, and evidence grading
 - Public/private separation and sanitization
 - Translation of tacit knowledge into reusable process
+- Translation of private systems into inspectable public proof
 
 ### Operational practice
 
@@ -159,6 +202,7 @@ The public artifacts differ in subject and format, but they share an operating d
 6. **Test the artifact.** A claim that something works is weaker than an inspectable result.
 7. **Convert failure into infrastructure.** Repeated mistakes become rules, checks, or revised procedures.
 8. **Keep the human responsible.** Artificial intelligence can expand production without inheriting human authority.
+9. **Separate proof from disclosure.** A public artifact should show enough architecture to support the claim without automatically exposing the private method that produced it.
 
 ## Public proof, not inflated claims
 
@@ -168,14 +212,17 @@ This archive supports claims that can be inspected directly:
 - the code runs as described;
 - the tests and documentation are visible;
 - the agent architecture is defined;
+- the Systems Papers expose public-safe architecture, failure logic, and claim boundaries;
 - the manuals and long-form documents are complete public artifacts;
-- the work spans operational, analytical, technical, and literary forms.
+- the work spans operational, analytical, technical, systems-explanation, and literary forms.
 
 The archive does **not** claim:
 
 - enterprise deployment where only internal design exists;
 - professional certification that has not been earned;
 - machine-learning engineering experience;
+- model-weight modification from external control documents;
+- hidden access to model internals;
 - legal, clinical, security-audit, or regulatory authority;
 - guaranteed business outcomes;
 - that high output volume automatically equals quality.
@@ -188,6 +235,7 @@ The strongest external applications of this work include:
 
 - artificial-intelligence workflow governance;
 - human oversight and responsible-AI operations;
+- behavioural control through external operating documents;
 - documentation architecture;
 - knowledge operations;
 - model evaluation and quality assurance;
@@ -205,7 +253,7 @@ The website and this GitHub archive serve different purposes:
 
 - the website is the public project and commercial door;
 - GitHub provides inspectable systems, documents, code, and professional proof;
-- the private archive preserves production material, source history, and unreleased systems.
+- the private archive preserves production material, source history, calibration evidence, operating controls, and unreleased systems.
 
 ## Archive boundary
 
@@ -215,12 +263,14 @@ The public repositories do not contain:
 
 - private production Bibles;
 - the full source archive;
+- raw behavioural calibration transcripts;
 - personal records;
 - customer or collaborator information;
 - unreleased systems and manuscripts;
 - live credentials or platform configuration;
 - private style profiles;
-- internal strategy, legal, financial, or accessibility records.
+- internal strategy, legal, financial, or accessibility records;
+- complete consulting implementation packages merely because a public paper describes the architecture behind them.
 
 Public artifacts are separated from the production archive and checked before release. Publication of an artifact does not make its private source chain public.
 
@@ -242,7 +292,7 @@ Roger Crosby is an Ottawa-based systems builder and operational writer. His back
 - Business Management and Entrepreneurship;
 - Hotel and Restaurant Operations Management.
 
-He works across human-gated artificial intelligence, documentation architecture, knowledge operations, workflow verification, creative systems, and long-form writing.
+He works across human-gated artificial intelligence, documentation architecture, knowledge operations, behavioural-control systems, workflow verification, creative systems, and long-form writing.
 
 Contact: [info@paranoidpeoplelivelonger.com](mailto:info@paranoidpeoplelivelonger.com)  
 GitHub profile: [RexPiperisOlem](https://github.com/RexPiperisOlem)  
