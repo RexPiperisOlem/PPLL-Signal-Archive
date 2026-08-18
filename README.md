@@ -28,7 +28,7 @@ Start with the [Human-Gated Agent System](https://github.com/RexPiperisOlem/huma
 
 ### I want to see how a private operating system becomes public proof
 
-Start with the [Systems Papers series](https://github.com/RexPiperisOlem/Notes/tree/main/systems-papers), beginning with [Rebuilding the Room — Systems Paper 001](https://github.com/RexPiperisOlem/Notes/tree/main/systems-papers/001-rebuilding-the-room).
+Start with the [Systems Papers series](https://github.com/RexPiperisOlem/Notes/tree/main/systems-papers). [Rebuilding the Room — Systems Paper 001](https://github.com/RexPiperisOlem/Notes/tree/main/systems-papers/001-rebuilding-the-room) focuses on behavioural continuity and external operating controls. [From Job Search to Employment Intelligence — Systems Paper 002](https://github.com/RexPiperisOlem/Notes/tree/main/systems-papers/002-ai-employment-radar) focuses on constraint-first AI-assisted decision architecture, evidence matching, and human-gated employment intelligence.
 
 ### I want to see working code and a contained prototype
 
@@ -122,6 +122,30 @@ The public edition intentionally withholds raw calibration transcripts, private 
 
 That boundary is part of the design: **GitHub receives the proof layer; the private archive retains the operating layer.**
 
+### [From Job Search to Employment Intelligence — Systems Paper 002](https://github.com/RexPiperisOlem/Notes/tree/main/systems-papers/002-ai-employment-radar)
+
+A public proof-of-work paper about turning a noisy AI job search into a constraint-first employment-intelligence system.
+
+The private system was developed through sequential prototypes, beginning with a deliberately mixed batch of **30 live job listings**. Deep reading exposed a critical distinction between work that looked right conceptually and work that was actually usable. The architecture was revised so hard feasibility is tested before nuanced ranking, evidence is separated from aspiration, unfamiliar job titles become search vocabulary, and consequential application decisions remain human-controlled.
+
+The public edition makes visible:
+
+- feasibility before relevance;
+- content fit versus employment fit;
+- title and vocabulary discovery;
+- evidence matching;
+- truth-preserving translation;
+- human-gated consequential action;
+- false-positive and near-miss learning;
+- sequential prototyping and earned complexity;
+- limitations and public/private boundaries.
+
+**What it proves:** constraint-first decision architecture, AI-assisted evaluation, evidence-backed capability translation, human oversight, failure-to-infrastructure learning, knowledge operations, claims discipline, and the ability to convert a private working tool into inspectable public proof.
+
+**What it does not claim:** guaranteed employment outcomes, population-level hiring effectiveness, autonomous application authority, machine-learning engineering, or publication of the private operating system.
+
+The public edition intentionally withholds exact scoring mechanics, personal feasibility constraints, candidate-specific evidence, detailed search configuration, named test datasets, private test records, and the operating Bible.
+
 ## Published documents
 
 The [Published Documents repository](https://github.com/RexPiperisOlem/Notes) contains finished public work across artificial intelligence, cognition, operational writing, recipe production, speculative futures, and literature, along with the Systems Papers series.
@@ -158,6 +182,7 @@ An earlier public creative document retained as evidence of development, voice, 
 - Model-output evaluation and repair logic
 - Behavioural drift and contamination analysis
 - Failure analysis and controlled system change
+- Constraint-first opportunity evaluation
 - State, version, and continuity awareness
 
 ### Documentation and knowledge systems
@@ -167,6 +192,7 @@ An earlier public creative document retained as evidence of development, voice, 
 - Intake records, work orders, operator cards, and decision maps
 - Acceptance criteria and quality gates
 - Source tracking, provenance, and evidence grading
+- Evidence-backed capability translation
 - Public/private separation and sanitization
 - Translation of tacit knowledge into reusable process
 - Translation of private systems into inspectable public proof
@@ -239,6 +265,7 @@ The strongest external applications of this work include:
 - documentation architecture;
 - knowledge operations;
 - model evaluation and quality assurance;
+- evidence-backed capability and opportunity evaluation;
 - source, provenance, and traceability controls;
 - operational writing;
 - workflow mapping and failure analysis;
