@@ -28,7 +28,7 @@ Start with the [Human-Gated Agent System](https://github.com/RexPiperisOlem/huma
 
 ### I want to see how a private operating system becomes public proof
 
-Start with the [Systems Papers series](https://github.com/RexPiperisOlem/Notes/tree/main/systems-papers). [Rebuilding the Room — Systems Paper 001](https://github.com/RexPiperisOlem/Notes/tree/main/systems-papers/001-rebuilding-the-room) focuses on behavioural continuity and external operating controls. [From Job Search to Employment Intelligence — Systems Paper 002](https://github.com/RexPiperisOlem/Notes/tree/main/systems-papers/002-ai-employment-radar) focuses on constraint-first AI-assisted decision architecture, evidence matching, and human-gated employment intelligence.
+Start with the [Systems Papers series](https://github.com/RexPiperisOlem/Notes/tree/main/systems-papers). [Rebuilding the Room — Systems Paper 001](https://github.com/RexPiperisOlem/Notes/tree/main/systems-papers/001-rebuilding-the-room) focuses on behavioural continuity and external operating controls. [From Job Search to Employment Intelligence — Systems Paper 002](https://github.com/RexPiperisOlem/Notes/tree/main/systems-papers/002-ai-employment-radar) focuses on constraint-first AI-assisted decision architecture, evidence matching, and human-gated employment intelligence. [AI Claims Audit Stack — Systems Paper 003](https://github.com/RexPiperisOlem/Notes/tree/main/systems-papers/003-ai-claims-audit-stack) focuses on evidence-bounded auditing of AI-supported claims, provenance, auditability, human oversight, contestability, and quantitative-claim discipline.
 
 ### I want to see working code and a contained prototype
 
@@ -146,6 +146,27 @@ The public edition makes visible:
 
 The public edition intentionally withholds exact scoring mechanics, personal feasibility constraints, candidate-specific evidence, detailed search configuration, named test datasets, private test records, and the operating Bible.
 
+### [AI Claims Audit Stack — Systems Paper 003](https://github.com/RexPiperisOlem/Notes/tree/main/systems-papers/003-ai-claims-audit-stack)
+
+A public proof-of-work paper about auditing the process behind AI-supported claims rather than treating a polished output, score, ranking, forecast, or model consensus as self-explanatory.
+
+The public framework makes visible:
+
+- claim decomposition and consequential definitions;
+- evidence provenance and material exclusions;
+- AI model, version, tool, and execution context;
+- institutional authority, incentives, and practical leverage;
+- quantitative measurement, baselines, uncertainty, and generalization;
+- meaningful human oversight, contestability, timing, and dependency;
+- lawful evidence access and auditability limits;
+- bounded findings that preserve material unknowns.
+
+**What it proves:** AI evaluation and claims auditing, provenance architecture, human-oversight analysis, contestability, institutional-power analysis, quantitative-claim discipline, lawful evidence-access design, and evidence-bounded conclusion writing.
+
+**What it does not claim:** complete auditability from public evidence, hidden access to model internals, legal or regulatory authority, automatic proof of bias or wrongdoing, or publication of the private operating system.
+
+The public edition intentionally withholds internal agent specifications, detailed prompts, recursive routing logic, branch and stopping mechanics, field cards, ledger schemas, validation records, and the complete in-house operating package.
+
 ## Published documents
 
 The [Published Documents repository](https://github.com/RexPiperisOlem/Notes) contains finished public work across artificial intelligence, cognition, operational writing, recipe production, speculative futures, and literature, along with the Systems Papers series.
@@ -183,6 +204,9 @@ An earlier public creative document retained as evidence of development, voice, 
 - Behavioural drift and contamination analysis
 - Failure analysis and controlled system change
 - Constraint-first opportunity evaluation
+- AI-supported claims auditing and auditability analysis
+- Human oversight and contestability analysis
+- Quantitative-claim and generalization discipline
 - State, version, and continuity awareness
 
 ### Documentation and knowledge systems
@@ -235,8 +259,7 @@ The public artifacts differ in subject and format, but they share an operating d
 This archive supports claims that can be inspected directly:
 
 - the repositories exist;
-- the code runs as described;
-- the tests and documentation are visible;
+- the code and tests are publicly inspectable;
 - the agent architecture is defined;
 - the Systems Papers expose public-safe architecture, failure logic, and claim boundaries;
 - the manuals and long-form documents are complete public artifacts;
@@ -260,6 +283,7 @@ The purpose of the archive is to make real capability legible without making the
 The strongest external applications of this work include:
 
 - artificial-intelligence workflow governance;
+- AI evaluation and claims auditing;
 - human oversight and responsible-AI operations;
 - behavioural control through external operating documents;
 - documentation architecture;
@@ -319,7 +343,7 @@ Roger Crosby is an Ottawa-based systems builder and operational writer. His back
 - Business Management and Entrepreneurship;
 - Hotel and Restaurant Operations Management.
 
-He works across human-gated artificial intelligence, documentation architecture, knowledge operations, behavioural-control systems, workflow verification, creative systems, and long-form writing.
+He works across human-gated artificial intelligence, documentation architecture, knowledge operations, behavioural-control systems, workflow verification, AI-claims auditing, creative systems, and long-form writing.
 
 Contact: [info@paranoidpeoplelivelonger.com](mailto:info@paranoidpeoplelivelonger.com)  
 GitHub profile: [RexPiperisOlem](https://github.com/RexPiperisOlem)  
