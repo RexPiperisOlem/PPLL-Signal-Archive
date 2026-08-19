@@ -1,4 +1,4 @@
-# Paranoid People Live Longer — Public Work and Signal Archive
+# Paranoid People Live Longer - Public Work and Signal Archive
 
 > **Paranoid doesn't mean afraid. Paranoid means paying attention.**
 
@@ -28,7 +28,7 @@ Start with the [Human-Gated Agent System](https://github.com/RexPiperisOlem/huma
 
 ### I want to see how a private operating system becomes public proof
 
-Start with the [Systems Papers series](https://github.com/RexPiperisOlem/Notes/tree/main/systems-papers). [Rebuilding the Room — Systems Paper 001](https://github.com/RexPiperisOlem/Notes/tree/main/systems-papers/001-rebuilding-the-room) focuses on behavioural continuity and external operating controls. [From Job Search to Employment Intelligence — Systems Paper 002](https://github.com/RexPiperisOlem/Notes/tree/main/systems-papers/002-ai-employment-radar) focuses on constraint-first AI-assisted decision architecture, evidence matching, and human-gated employment intelligence. [AI Claims Audit Stack — Systems Paper 003](https://github.com/RexPiperisOlem/Notes/tree/main/systems-papers/003-ai-claims-audit-stack) focuses on evidence-bounded auditing of AI-supported claims, provenance, auditability, human oversight, contestability, and quantitative-claim discipline.
+Start with the [Systems Papers series](https://github.com/RexPiperisOlem/Notes/tree/main/systems-papers). [Rebuilding the Room - Systems Paper 001](https://github.com/RexPiperisOlem/Notes/tree/main/systems-papers/001-rebuilding-the-room) focuses on behavioural continuity and external operating controls. [From Job Search to Employment Intelligence - Systems Paper 002](https://github.com/RexPiperisOlem/Notes/tree/main/systems-papers/002-ai-employment-radar) focuses on constraint-first AI-assisted decision architecture, evidence matching, and human-gated employment intelligence. [AI Claims Audit Stack - Systems Paper 003](https://github.com/RexPiperisOlem/Notes/tree/main/systems-papers/003-ai-claims-audit-stack) focuses on evidence-bounded auditing of AI-supported claims, provenance, auditability, human oversight, contestability, and quantitative-claim discipline.
 
 ### I want to see working code and a contained prototype
 
@@ -96,7 +96,7 @@ A private operating Bible tells the working system how to behave. A Systems Pape
 
 The point is not to publish a free implementation package. The point is to make the systems thinking inspectable.
 
-### [Rebuilding the Room — Systems Paper 001](https://github.com/RexPiperisOlem/Notes/tree/main/systems-papers/001-rebuilding-the-room)
+### [Rebuilding the Room - Systems Paper 001](https://github.com/RexPiperisOlem/Notes/tree/main/systems-papers/001-rebuilding-the-room)
 
 A public proof-of-work paper about behavioural continuity across changing artificial-intelligence models.
 
@@ -122,7 +122,7 @@ The public edition intentionally withholds raw calibration transcripts, private 
 
 That boundary is part of the design: **GitHub receives the proof layer; the private archive retains the operating layer.**
 
-### [From Job Search to Employment Intelligence — Systems Paper 002](https://github.com/RexPiperisOlem/Notes/tree/main/systems-papers/002-ai-employment-radar)
+### [From Job Search to Employment Intelligence - Systems Paper 002](https://github.com/RexPiperisOlem/Notes/tree/main/systems-papers/002-ai-employment-radar)
 
 A public proof-of-work paper about turning a noisy AI job search into a constraint-first employment-intelligence system.
 
@@ -146,7 +146,7 @@ The public edition makes visible:
 
 The public edition intentionally withholds exact scoring mechanics, personal feasibility constraints, candidate-specific evidence, detailed search configuration, named test datasets, private test records, and the operating Bible.
 
-### [AI Claims Audit Stack — Systems Paper 003](https://github.com/RexPiperisOlem/Notes/tree/main/systems-papers/003-ai-claims-audit-stack)
+### [AI Claims Audit Stack - Systems Paper 003](https://github.com/RexPiperisOlem/Notes/tree/main/systems-papers/003-ai-claims-audit-stack)
 
 A public proof-of-work paper about auditing the process behind AI-supported claims rather than treating a polished output, score, ranking, forecast, or model consensus as self-explanatory.
 
