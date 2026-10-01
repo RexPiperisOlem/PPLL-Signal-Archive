@@ -1,6 +1,6 @@
 # PPLL Art and Licensing
 
-Paranoid People Live Longer (PPLL) is an Ottawa-based independent art, design, publishing, and systems project.
+Paranoid People Live Longer (PPLL) is an independent art, design, publishing, and systems project.
 
 ## Artist Portfolio
 
