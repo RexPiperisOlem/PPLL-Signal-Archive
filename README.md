@@ -6,9 +6,11 @@
 
 This repository is the public index for selected work released through **Paranoid People Live Longer (PPLL)**.
 
-The public GitHub is intentionally small. It shows approved, inspectable work without exposing private production systems, operating Bibles, personal records, source archives, credentials, or unreleased material.
-
 ## Current public work
+
+### [PPLL Systems Papers](https://github.com/RexPiperisOlem/PPLL-Systems-Papers)
+
+A public proof-of-work collection covering distinct systems for human-controlled AI collaboration, continuity, conversational work translation, small-business operating infrastructure, and controlled art archives.
 
 ### [Human-Gated Agent System](https://github.com/RexPiperisOlem/human-gated-agent-system)
 
@@ -22,26 +24,17 @@ A small tested Python prototype demonstrating bounded symbolic mutation, determi
 
 Public information about PPLL art and licensing.
 
-## Publications
+## Public release boundary
 
-The public document shelf is temporarily offline while every document and Systems Paper is rechecked for content, privacy, version accuracy, accessibility, licensing, and release status.
-
-Nothing returns to the public shelf until it has been reviewed as an approved public edition.
-
-[Publication review status](https://github.com/RexPiperisOlem/Notes)
-
-## Public and private boundary
-
-Public repositories contain only material intentionally released for inspection.
-
-Private Radar engines, Pepper operating and voice systems, production Bibles, personal records, private source archives, credentials, commercial records, and unreleased work remain outside the public repositories.
+Public repositories contain material intentionally released for inspection. Non-public implementation material, personal records, credentials, commercial records, source archives, and unreleased work remain outside the public repositories.
 
 ## Main doors
 
+- [PPLL Systems Papers](https://github.com/RexPiperisOlem/PPLL-Systems-Papers)
 - [PPLL website](https://paranoidpeoplelivelonger.com)
 - [Roger Crosby GitHub profile](https://github.com/RexPiperisOlem)
 - Contact: info@paranoidpeoplelivelonger.com
 
 ## Copyright and reuse
 
-Unless a repository or artifact explicitly states otherwise, default copyright applies. Public access does not automatically grant permission to reproduce, modify, redistribute, package, train on, or sell the material.
+Unless a repository or artifact explicitly states otherwise, default copyright applies.
